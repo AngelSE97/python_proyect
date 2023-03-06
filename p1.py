@@ -15,6 +15,4 @@ for item in enumerate(texto):
     lista_indices = list(enumerate(texto))
 
     print(lista_indices)
-    print(lista_indices)
-
 
